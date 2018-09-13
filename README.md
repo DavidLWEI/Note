@@ -9,7 +9,8 @@ IB CS
 HW: Notepad++, Cygwin
 
 Problem solving, algorithms, programs
-Problem solving: basic process
+Problem solving: 
+         basic process
          
          Problem identification       
          
@@ -37,7 +38,9 @@ arr=[2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53, 59, 61, 67, 71,
 start=0
 end=len(arr)-1
 if a in arr:
-    while True:
+   
+   while True:
+        
         center = int((start+end)/2)
         if arr[center] > a:
           end = center-1
