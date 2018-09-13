@@ -12,10 +12,9 @@ Problem solving, algorithms, programs
 Problem solving: basic process
          Problem identification       Problem analysis
          Plan development          Plan evaluation
-Algorithms
-         A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
-Flowcharts 
-(伪代码)Pseudocode
+Algorithms： A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
+Flowcharts  
+(伪代码)Pseudocode ：an informal high-level description of the operating principle of a computer program or other algorithm
 Programs 
 
 Is 111 in num_arr_2= [2, 3, 5, 7, 11, 13, ~~~]?
