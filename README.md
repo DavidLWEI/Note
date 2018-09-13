@@ -10,8 +10,14 @@ HW: Notepad++, Cygwin
 
 Problem solving, algorithms, programs
 Problem solving: basic process
-         Problem identification       Problem analysis
-         Plan development          Plan evaluation
+         
+         Problem identification       
+         
+         Problem analysis
+         
+         Plan development          
+         
+         Plan evaluation
 Algorithms： A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.
 Flowcharts  
 (伪代码)Pseudocode ：an informal high-level description of the operating principle of a computer program or other algorithm
